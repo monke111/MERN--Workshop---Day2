@@ -1,2 +1,3 @@
+Day2: https://slides.com/noumaanahamed/day-2-backend-javascript-and-node-js/fullscreen
 Node.j: https://slides.com/harish_4/bento/fullscreen
 API: https://slides.com/harish_4/bento-5119b2/fullscreen
